@@ -40,7 +40,7 @@
           <li><a href="#">About</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
-        <h3 class="text-muted">Project name</h3>
+        <h3 class="text-muted">MSE HES-SO</h3>
       </div>
 
       <div class="jumbotron">
