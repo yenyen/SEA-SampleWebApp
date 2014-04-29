@@ -45,7 +45,7 @@
 
       <div class="jumbotron">
         <h1>Continuous Delivery Lab @ SEA</h1>
-        <p class="lead">Hello. This is a demo application used in the continuous delivery lab.</p>
+        <p class="lead">Hello. I really need to create something. This is a demo application used in the continuous delivery lab.</p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
       </div>
 
